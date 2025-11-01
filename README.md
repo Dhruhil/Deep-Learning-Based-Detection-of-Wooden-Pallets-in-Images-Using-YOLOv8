@@ -51,6 +51,9 @@
 <img width="1052" height="615" alt="image" src="https://github.com/user-attachments/assets/a59ef505-6ebc-439d-984b-51103190f5b2" />
 
 
+**Trained Model Results**
+<img width="1252" height="758" alt="image" src="https://github.com/user-attachments/assets/efb87abb-b258-4c91-a61d-51b64603a433" />
+Side-by-side comparison of validation images with true labels (left) and predicted labels (right).
 ### Interpretation
 - The **predefined YOLOv8n** model achieved the **best overall performance**, balancing speed and accuracy.
 - It is **lightweight** and suitable for **real-time inference** on edge devices.
