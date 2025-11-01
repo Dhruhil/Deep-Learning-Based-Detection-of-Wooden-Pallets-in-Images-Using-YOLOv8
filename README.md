@@ -23,7 +23,7 @@
 - **Annotation tool:** `labelImg`  
 - **Augmentation library:** `Albumentations`
 
-- ### 🏗️ Model Training
+- ### Model Training
 - Framework: `Ultralytics YOLOv8`
 - Training image size: `640×640`
 - Validation strategy: 3-fold cross-validation
@@ -32,6 +32,7 @@
 ---
 
 ## Results
+<img width="1670" height="122" alt="image" src="https://github.com/user-attachments/assets/d66bd0ed-5fb8-47b3-97a1-894782145ba5" />
 
 | Model Type         | Precision | Recall | F1-Score | mAP@0.5 |
 |--------------------|------------|---------|-----------|----------|
