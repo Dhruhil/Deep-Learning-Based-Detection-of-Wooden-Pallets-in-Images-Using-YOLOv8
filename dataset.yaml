@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/trackmate/train/images
+val: /content/drive/MyDrive/trackmate/val/images
+nc: 2
+names: ['EUR Pallets', 'NON EUR Pallets']
