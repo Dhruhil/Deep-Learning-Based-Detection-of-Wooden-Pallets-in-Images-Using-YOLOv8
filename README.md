@@ -32,12 +32,24 @@
 ---
 
 ## Results
+**Predefined YOLOv8n**
 <img width="1670" height="122" alt="image" src="https://github.com/user-attachments/assets/d66bd0ed-5fb8-47b3-97a1-894782145ba5" />
 
-| Model Type         | Precision | Recall | F1-Score | mAP@0.5 |
-|--------------------|------------|---------|-----------|----------|
-| **Predefined YOLOv8n** | **0.86** | **0.84** | **0.85** | **0.88** |
-| Custom YOLOv8n     | 0.90 | 0.62 | 0.73 | 0.74 |
+**Custom YOLOv8n**
+<img width="1685" height="133" alt="image" src="https://github.com/user-attachments/assets/03ab5ac6-617c-4c4c-9a88-d3030ec14fc9" />
+
+**Precision**
+<img width="1183" height="687" alt="image" src="https://github.com/user-attachments/assets/52c6f230-ead0-4d1d-a39f-a111e7c110d6" />
+
+**Recall**
+<img width="1178" height="697" alt="image" src="https://github.com/user-attachments/assets/344a178c-d80a-4bb5-8e4c-6bcefe06aae7" />
+
+**F1 Score**
+<img width="1105" height="641" alt="image" src="https://github.com/user-attachments/assets/60bd7a2c-1187-47b8-bde7-4258a991f957" />
+
+**mAP@50**
+<img width="1052" height="615" alt="image" src="https://github.com/user-attachments/assets/a59ef505-6ebc-439d-984b-51103190f5b2" />
+
 
 ### Interpretation
 - The **predefined YOLOv8n** model achieved the **best overall performance**, balancing speed and accuracy.
